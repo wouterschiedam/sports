@@ -1,0 +1,7 @@
+train: /Users/wouter/personal/sports/datasets/football-players-detection/train/images
+val: /Users/wouter/personal/sports/datasets/football-players-detection/valid/images
+test: /Users/wouter/personal/sports/datasets/football-players-detection/test/images
+
+nc: 4
+names: ['ball', 'goalkeeper', 'player', 'referee']
+
