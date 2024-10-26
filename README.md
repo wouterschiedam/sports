@@ -1,3 +1,13 @@
+Let's build a Football AI system to dig deeper into match stats! We'll use computer vision and machine learning to track players, determine which team is which, and even calculate stuff like ball possession and speed.
+This tutorial is perfect if you want to get hands-on with sports analytics and see how AI can take your football analysis to the next level.
+
+
+## Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
 **Note:** Let's download a few sample videos from the [DFL - Bundesliga Data Shootout](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout) 
 
 ```
