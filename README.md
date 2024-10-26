@@ -1,6 +1,5 @@
-Let's build a Football AI system to dig deeper into match stats! We'll use computer vision and machine learning to track players, determine which team is which, and even calculate stuff like ball possession and speed.
-This tutorial is perfect if you want to get hands-on with sports analytics and see how AI can take your football analysis to the next level.
-
+This project is a hobby project which combines my love for football and skills in programming into a single project.
+The goal of this project is to train a model to detect the position of the players in the game.
 
 ## Install dependencies
 
